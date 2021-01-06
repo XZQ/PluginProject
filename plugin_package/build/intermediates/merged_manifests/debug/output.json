@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.xzq.plugin_package",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "plugin_package-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.xzq.plugin_package",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}
